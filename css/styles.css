@@ -21,7 +21,7 @@ h2 {
     margin-bottom: 0;
 }
 
-#img {
+.img {
     width: 750px;
     margin: 0 auto;
     display: block;
@@ -33,7 +33,7 @@ h2 {
     transition: 1.5s ease-in-out;
 }
 
-#img:hover {
+.img:hover {
     -webkit-filter: sepia(100%);
     filter: sepia(100%);
 }
