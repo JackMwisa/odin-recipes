@@ -16,6 +16,9 @@
 
 h2 {
     text-align: center;
+    font-size: 48px;
+    -webkit-text-stroke: 0.2px white;  
+    margin-bottom: 0;
 }
 
 #img {
@@ -24,6 +27,15 @@ h2 {
     display: block;
     border-radius: 20px;
     border: dotted 10px white ;
+    -webkit-filter: sepia(0);
+    filter: sepia(0);
+    -webkit-transition: 1.5s ease-in-out;
+    transition: 1.5s ease-in-out;
+}
+
+#img:hover {
+    -webkit-filter: sepia(100%);
+    filter: sepia(100%);
 }
 
 
@@ -53,3 +65,13 @@ ul {
   
   }
   
+  a:hover {
+      color: white;
+      font-size: 40px;
+      transition: 0.5s;
+  }
+
+  #try {
+      text-align: center;
+      color: rgb(0, 0, 0);
+  }
