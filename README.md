@@ -1,6 +1,6 @@
 # odin-recipes
 
-Hey Fan,
+Hello,
 ## Recipe Page ⭐️
 Create a recipe page to showcase basic HTML & CSS.    
 
@@ -25,4 +25,4 @@ Most importantly, I was able to organize "beginner friendly" clean code so it is
 
 Please do share any tips and tricks on my project. 
 ## Let's Network 🔗
-- [Twitter](https://twitter.com/home)
+- [Twitter](https://twitter.com/jackmwisa)
