@@ -39,14 +39,14 @@ h2 {
 }
 
 
-ul {
+.list {
     max-width: 300px;
     margin: 0 auto 50px auto;
     text-align: left;
     line-height: 1.6;
   }
   
-  li {
+ .list-item {
     margin: 16px 0;
     background: rgb(253, 253, 255) !important;
     list-style: none;
@@ -75,3 +75,13 @@ ul {
       text-align: center;
       color: rgb(0, 0, 0);
   }
+
+  #pasta {
+
+    size: 30px;
+    width: 300px;
+  }
+
+main {
+    text-align: center;
+}
